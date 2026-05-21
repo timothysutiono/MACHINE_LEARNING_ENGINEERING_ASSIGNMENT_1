@@ -15,3 +15,7 @@ __MACOSX/
 # Misc
 *.zip
 .venv/
+
+.Trash-0/
+data/data/Untitled.ipynb
+Assignment 1*.pdf
