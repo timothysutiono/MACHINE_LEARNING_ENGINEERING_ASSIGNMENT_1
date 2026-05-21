@@ -1,0 +1,17 @@
+# Brief says exclude this
+datamart/
+
+# Python clutter
+__pycache__/
+*.pyc
+
+# Jupyter clutter
+.ipynb_checkpoints/
+
+# Mac extracted-zip junk (already in your data folder)
+__MACOSX/
+.DS_Store
+
+# Misc
+*.zip
+.venv/
